@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# demo 脚本的本地输出目录（可随时重新生成）
+demo_output/
+demo_heatmap_output/
+rotcheck_demo_output/
+data/
